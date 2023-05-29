@@ -20,15 +20,15 @@ Time on Website: Average time spent on Website in minutes.
 Length of Membership: How many years the customer has been a member ?
 Yearly Amount Spent: How much amount the customer have spent ?**
 
-**Contents:
-1.Importing the required libraries
-2.Reading the dataset
-3.Exploratory Data Analysis (EDA)
-4.Visualizing Data using Seaborn library
-5.Data Modeling
-6.Separating the data into features and target variable.
-7.Splitting the data into training and test sets.
-8.Implementing the Linear Regression Model.
-9.Evaluating the prediction scores.
-10.Visualizing the results
-11.Evaluating the model accuracy.**
+****Contents:**
+**1.Importing the required libraries**
+**2.Reading the dataset**
+**3.Exploratory Data Analysis (EDA)**
+**4.Visualizing Data using Seaborn library**
+**5.Data Modeling**
+    **Separating the data into features and target **variable.**
+    **Splitting the data into training and test sets.**
+    **Implementing the Linear Regression Model.**
+    **Evaluating the prediction scores.**
+    **Visualizing the results**
+**6.Evaluating the model accuracy.**
