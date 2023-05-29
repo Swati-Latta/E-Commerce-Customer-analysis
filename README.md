@@ -26,9 +26,9 @@ Yearly Amount Spent: How much amount the customer have spent ?**
 **3.Exploratory Data Analysis (EDA)**
 **4.Visualizing Data using Seaborn library**
 **5.Data Modeling**
-    **(Separating the data into features and target variable.)**
-    **Splitting the data into training and test sets.**
-    **Implementing the Linear Regression Model.**
-    **Evaluating the prediction scores.**
+    **(Separating the data into features and target variable,**
+    **Splitting the data into training and test sets,**
+    **Implementing the Linear Regression Model,**
+    **Evaluating the prediction scores,**
     **Visualizing the results)**
 **6.Evaluating the model accuracy.**
